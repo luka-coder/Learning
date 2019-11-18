@@ -1,0 +1,9 @@
+.div1{
+    width: 300px;
+    min-height: 200px;
+    border: solid 3px black;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
